@@ -1,0 +1,25 @@
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:106
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:118
+-keep class com.google.android.gms.ads.AdService { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:112
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:101
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:91
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:97
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:76
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:123
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:34
+-keep class com.musagokgoz.bluetoothArduino.MainActivity { <init>(); }
+# Referenced at C:\Users\DeLL\AndroidStudioProjects\bluetooth\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:25
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at C:\Users\DeLL\.gradle\caches\transforms-2\files-2.1\f910153e092bd78add450e3633ed90fc\browser-1.0.0\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
